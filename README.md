@@ -25,41 +25,41 @@ Delivery acceleration -- cut deployment times from 4.5 hours to 2 minutes on a t
 
 ## PROFESSIONAL EXPERIENCE
 ### Valence -- Chief Technology Officer
-Jan 2023 -- Aug 2024 | New York & Remote
+_Jan 2023 -- Aug 2024 | New York & Remote_
 - Set and executed company‑wide technology, product and data strategy, supporting new product launches and market expansion.
 - Directed cross‑disciplinary teams across Engineering, Product, IT, Infrastructure and Data, embedding agile ways of working.
 - Implemented organisation‑wide security and compliance framework, strengthening customer trust and audit readiness.
 - Managed multi‑million‑dollar technology budget, aligning investment with OKRs and reducing cloud waste.
 
 ### Blockdaemon -- Vice President of Engineering
-Nov 2019 -- Jul 2023 | Global
+_Nov 2019 -- Jul 2023 | Global_
 - Scaled engineering organisation from 10 to 180 across 14 countries; formalised SRE, QA, Security, Data and Architecture practices.
 - Led technology through Series A--C growth to $3.25 Billion valuation, steering due‑diligence for investors and acquirers.
 - Orchestrated multi‑cloud rollout (AWS, Azure, GCP) and bare‑metal clusters on six continents, sustaining high availability.
 - Defined and tracked KPIs and OKRs linking engineering output with business goals, improving delivery predictability.
 
 ### DWP Digital -- Senior Site Reliability Engineer (Contract)
-Jun 2019 -- Nov 2019
+_Jun 2019 -- Nov 2019_
 - Introduced DevOps governance that boosted deployment efficiency 40 % in five months.
 - Mentored engineering staff and embedded SRE best practices, reducing mean‑time‑to‑recovery.
 
 ### Atom Bank -- Senior Solutions Architect (Contract)
-Jul 2018 -- Jun 2019
+_Jul 2018 -- Jun 2019_
 - Architected AML and Sanctions platform; buy‑vs‑build policy projected to save £4.5 m over three years.
 - Led migration from on‑premise to GCP with Kubernetes & Kafka, enabling elastic scaling for a 1 m+ customer base.
 
 ### Insure The Box -- Interim Head of Software Delivery (Contract)
-Jan 2018 -- Jul 2018
+_Jan 2018 -- Jul 2018_
 - Re‑engineered CI/CD pipeline, slashing deployment time from 4.5 hours to 2 minutes and doubling developer throughput.
 - Restructured teams and processes, cutting operational expenditure by 20 % while clearing a six‑month backlog in ten weeks.
 
 ### CollectorIQ -- Interim CTO (Contract)
-2017 -- 2018
+_2017 -- 2018_
 - Reset technical strategy and roadmap, enabling onboarding of first enterprise client (Bank of America).
 - Introduced centralised logging and governance, reducing critical incidents.
 
 ### CCP Games -- Senior Technical Architect (Contract)
-2015 -- 2017
+_2015 -- 2017_
 - Architected API and all services for VR title EVE: Valkyrie, supporting launches on PlayStation VR, Oculus and Vive.
 - Designed auto‑scaling infrastructure and matchmaking algorithms to handle global player traffic.
 
