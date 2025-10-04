@@ -1,21 +1,8 @@
-# LLOYD MOORE
+**Fractional CTO helping Series A companies scale engineering teams without breaking them.**
 
+96% retention while scaling 10→187 engineers | $3.25B valuation | 70% infrastructure cost cuts
 
+Currently: Technical advisor to growth-stage companies  
+Previously: CTO at Blockdaemon (unicorn), Valence | Royal Marines
 
-Strategic Technology Leader | Engineering Scale‑Up Specialist | Product & Platform Visionary
-
-UK · +44 7399 429 659 · lloyd@codegood.co · linkedin.com/in/moorelloyd
-
-https://lloydmoore.com
-
-## PROFESSIONAL PROFILE
-Engineering executive with 20+ years' experience turning bold product visions into resilient, revenue‑driving platforms. Proven at hyper‑growth scale: expanded Blockdaemon's engineering team 18‑fold and supported a $3.25 bn valuation; delivered sub‑minute release cycles and significant operational savings across multiple organisations. Equally at home in the boardroom and the codebase, translating strategy into shipped, secure and scalable solutions.
-
-
-
-
-
-
-
-
-
+📧 lloyd@lloydmoore.com | 🌐 lloydmoore.com
